@@ -1,10 +1,10 @@
 # Arkademy-Technical-Test
 Sept, 21st '19
 
-Coded in "Atom"
-Server app is "Wampserver"
-MySQL worked in "phpMyAdmin"
-Tested on Google Chrome
+Coded in "Atom",
+Server app is "Wampserver",
+MySQL worked in "phpMyAdmin",
+Tested on Google Chrome;
 
 
 RESTful APIs and JSON
