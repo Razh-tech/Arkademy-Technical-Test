@@ -7,6 +7,7 @@ MySQL worked in "phpMyAdmin",
 Tested on Google Chrome.
 
 Screenshots (inside folder 6A):
+
 https://github.com/Razh-tech/Arkademy-Technical-Test/blob/master/6A/Screenshot%20(25).png
 https://github.com/Razh-tech/Arkademy-Technical-Test/blob/master/6A/Screenshot%20(29).png
 https://github.com/Razh-tech/Arkademy-Technical-Test/blob/master/6A/Screenshot%20(30).png
