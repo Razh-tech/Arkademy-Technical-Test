@@ -2,8 +2,11 @@
 Sept, 21st '19
 
 Coded in "Atom",
+
 Server app is "Wampserver",
+
 MySQL worked in "phpMyAdmin",
+
 Tested on Google Chrome.
 
 Screenshots (inside folder 6A):
@@ -13,6 +16,7 @@ Screenshots (inside folder 6A):
 - https://github.com/Razh-tech/Arkademy-Technical-Test/blob/master/6A/Screenshot%20(30).png
 - https://github.com/Razh-tech/Arkademy-Technical-Test/blob/master/6A/Screenshot%20(31).png
 - https://github.com/Razh-tech/Arkademy-Technical-Test/blob/master/6A/Screenshot%20(32).png
+
 
 
 RESTful APIs and JSON
